@@ -1,0 +1,5 @@
+nohup: ignoring input
+Traceback (most recent call last):
+  File "validation_mixed_adsorb.py", line 14, in <module>
+    from monte_carlo_simulation.basic_functions import MonteCarloSimulation
+ModuleNotFoundError: No module named 'monte_carlo_simulation'
